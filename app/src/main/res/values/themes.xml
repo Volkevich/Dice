@@ -3,7 +3,7 @@
     <style name="Base.Theme.Dice" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="colorPrimary">#F17E09</item>
+        <item name="colorPrimary">#FF8100</item>
         <item name="colorOnPrimary">#EADECC</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">#CAB91C</item>
