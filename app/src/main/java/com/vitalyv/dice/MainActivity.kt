@@ -35,20 +35,14 @@ class MainActivity : AppCompatActivity() {
                 binding.imageView?.let {
                     Glide.with(this)
                         .asGif()
-                        .load(R.raw.dicpfive)
+                        .load(R.raw.dicpefive)
                         .into(it)
                 }
             }
-            6 -> {
-                binding.imageView?.let {
-                    Glide.with(this)
-                        .asGif()
-                        .load(R.raw.dicpe2)
-                        .into(it)
-                }
+            6 -> binding.imageView?.setImageResource(R.drawable.dice6)
             }
         }
     }
 
 
-    }
+
