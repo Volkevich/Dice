@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="throw_bone">Бросить кость</string>
+    <string name="readme">Правила очень просты, нажми на кнопку и испытай удачу!</string>
+</resources>
