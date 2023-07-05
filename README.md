@@ -9,3 +9,10 @@ ___
 
 #### Supported android versions :8.0 (Oreo) - API 26 and higher
 #### Memory size :minidisc:: 
+## Screenshots of the Application:
+
+### Light mode and English:
+
+<img src="scrin1.png"/>
+
+<img src="scrin2.png"/>
