@@ -13,6 +13,7 @@ ___
 
 ### Light mode and English:
 
+<img src="scrin2.png"/>
 <img src="scrin1.png"/>
 
-<img src="scrin2.png"/>
+
